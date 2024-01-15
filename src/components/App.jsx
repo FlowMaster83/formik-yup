@@ -1,7 +1,5 @@
+import { Form } from './Form/Form';
+
 export const App = () => {
-  return (
-    <div>
-      <p>Paragraph</p>
-    </div>
-  );
+  return <Form />;
 };
